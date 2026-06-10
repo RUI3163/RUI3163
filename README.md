@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi There! 
+
+My Name is **Luiz Yosef Martua R Nainggolan**.<br>
+
+Right now I am an **undergraduate student** in Airlangga University Indonesia majoring in Robotics and Artificial intelligence Engineering.<br>
+
+Currently I am a Cohort at Coding Camp 2026 powered by DBS Foundation by [Dicoding](https://www.dicoding.com/) .<br>
+
+I'm interested in mobile robots, manipulator robots, artificial intelligence architectures and automation.<br>
+
+You can check my [Linkedin](https://www.linkedin.com/in/luiznainggolan/) for more information.
 
 <!--
 **RUI3163/RUI3163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
